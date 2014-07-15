@@ -1,6 +1,6 @@
 <?php
 function GetCourses() {
-    echo 'GET';
+    echo 'Hello';
 }
 function PostCourses() {
     echo 'POST';
